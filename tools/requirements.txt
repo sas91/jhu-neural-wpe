@@ -1,0 +1,6 @@
+chainer==5.0.0
+argparse
+scipy
+h5py
+tqdm
+threaded
