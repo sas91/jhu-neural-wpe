@@ -1,8 +1,8 @@
 # jhu-neural-wpe
 
 jhu-neural-wpe is a Neural network based dereverberation toolkit which includes an open source implementation of
-Keisuke Kinoshita, et al. "Neural network-based spectrum estimation for online WPE dereverbertion.", Proc. Interspeech. 2017.
-jhu-neural-wpe uses [chainer](https://chainer.org/) as the deep learning engine.
+Keisuke Kinoshita, et al. "Neural network-based spectrum estimation for online WPE dereverbertion.", Interspeech 2017.
+jhu-neural-wpe uses [chainer](https://chainer.org/) as the deep learning engine. The WPE filtering code in `src/wpe.py` is based on [NARA-WPE](https://github.com/fgnt/nara_wpe) by Lukas Drude, et. al. "NARA-WPE: A Python package for weighted prediction error dereverberation in Numpy and Tensorflow for online and offline processing.", ITG 2018. 
 
 
 ## Installation
